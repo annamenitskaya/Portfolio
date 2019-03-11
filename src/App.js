@@ -26,7 +26,7 @@ class App extends Component {
         <div className="hero-text-box">
             <h1>Anna Mentiskaya<br/>Front End Developer</h1>
             <a className="btn btn-full" href="#projects">Portfolio</a>
-            <a className="btn btn-ghost" href="https://drive.google.com/open?id=0ByMXrXxJ8wP3SnZuODJPcEE4WkU"
+            <a className="btn btn-ghost" href="https://drive.google.com/open?id=1XyYR7dJ2OVtxwQN45_C5_7N-XpyzZm4q"
                 target="_blank"  rel="noopener noreferrer">Resume</a>
         </div>
     </header>
